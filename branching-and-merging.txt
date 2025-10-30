@@ -1,4 +1,4 @@
 
 
-#Master = A----B----C
-                    \feature----D----E
+#Master = A----B----C                       /
+                    \feature----D----E----F
