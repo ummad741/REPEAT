@@ -14,3 +14,7 @@ item item item item
 thing thing thnig 
 thing thing adjust 
 afford 
+
+fast-forward merge with conflict
+3 couplet in main 
+4 thir coupet will be in feature
