@@ -22,3 +22,5 @@ fast-forward merge with conflict
 
 tekshiruvdan keldi
 
+git merge --abort lets imagin we have file in both repository main and feature 
+and there have changes on the same line after that git gives you conflifcts
