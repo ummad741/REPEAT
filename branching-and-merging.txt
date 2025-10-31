@@ -4,10 +4,20 @@
                     \feature----D----E----F
 
 
+
+1 couplet added in main
+item item item item 
+item item ite item 
+item item item item 
+
 2 couplet in feature 
 thing thing thnig 
 thing thing adjust 
 afford 
+
+fast-forward merge with conflict
+3 couplet in main 
+4 thir coupet will be in feature
 
 
 tekshiruvdan keldi
