@@ -27,3 +27,5 @@ and there have changes on the same line after that git gives you conflifcts
 
 
 it a together with feature
+
+lets start rebase
