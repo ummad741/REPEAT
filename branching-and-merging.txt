@@ -37,3 +37,12 @@ d cheking
 
 2 ta vaziyat yaratvolishim kerak 
 2chisi
+lets start cherpicki 
+chery nima qilarkan chery pick masalan hozir man feature branchida ishlavoman 
+va main branchinda ozgarish yani etilik bitta qanadur bugni collegazimiz fix qildi
+juda muhim code edi estestveno u feature branchida yoq boladi va osha commit kerak 
+ishlash uchun shunda man chery-pickni ishlataman u ozgargan hamma commit yani bitta 
+commitni boshqa branchga copy qilishga yordam beradi va qachonki uni main branchga 
+qoshganda hichqanaqa conflict bermidi chunki gid biladiki sha1 idsio bilan bog'liq boganini 
+
+
