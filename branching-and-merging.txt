@@ -46,3 +46,5 @@ commitni boshqa branchga copy qilishga yordam beradi va qachonki uni main branch
 qoshganda hichqanaqa conflict bermidi chunki gid biladiki sha1 idsio bilan bog'liq boganini 
 
 
+oldinga ketib qoldi main va featureni commitlari bilan yetqizib olishim kerak
+
