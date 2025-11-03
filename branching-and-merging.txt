@@ -48,3 +48,4 @@ qoshganda hichqanaqa conflict bermidi chunki gid biladiki sha1 idsio bilan bog'l
 
 oldinga ketib qoldi main va featureni commitlari bilan yetqizib olishim kerak
 
+next one it is second step 
